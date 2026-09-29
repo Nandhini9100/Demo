@@ -1,1 +1,3 @@
-
+This is nandhini
+i am typing the content in main file
+file name file.txt
